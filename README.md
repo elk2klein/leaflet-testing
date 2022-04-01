@@ -1,10 +1,10 @@
-##Examples used##
+##Examples used
 - [leaflet-map-csv from HandsOnDataViz](https://github.com/HandsOnDataViz/leaflet-map-csv) [(Tutorial)](https://handsondataviz.org/leaflet-maps-with-csv.html)
 - [Leaflet.markercluster from Dave Leaver](https://github.com/Leaflet/Leaflet.markercluster).
 - [Leaflet Cluster Example from Andy Maloney](https://github.com/asmaloney/Leaflet_Cluster_Example) [(Tutorial)](https://asmaloney.com/2015/06/code/clustering-markers-on-leaflet-maps/)
 
 
-##Getting your map online using GitHub##
+##Getting your map online using GitHub
 1. Create a GitHub account.
 2. Follow the steps at https://github.com/HandsOnDataViz/leaflet-map-csv. Use your username as the name of your repository, and make sure it is public.
 3. Follow steps #1-5 under ["Publish Your Website Using GitHub Pages"](https://hackernoon.com/use-custom-domain-with-github-pages-2-straightforward-steps-cf561eee244f) to get your website (and map) online. Your page may take several minutes to appear.
